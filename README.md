@@ -8,7 +8,9 @@ Este proyecto contiene la carpeta **Base de Conocimiento** donde se almacena tod
 
 ## Formato
 
-El formato está pensado en la aplicación Obsidian.
+Toda la información está almacenada en archivos .md (escritos en Markdown). 
+
+El formato está pensado en la aplicación Obsidian. Con Markdown, la información se puede leer desde cualquier editor de texto (como el editor de GitHub, Bloc de Notas, etc.).
 
 ## Colaboradores
 
